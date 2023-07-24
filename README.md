@@ -1,3 +1,5 @@
+## Weight asynchronous update: Improving the diversity of filters in a deep convolutional network
+
 ## Install
 * Install [PyTorch](http://pytorch.org/)
 * Clone recursively
